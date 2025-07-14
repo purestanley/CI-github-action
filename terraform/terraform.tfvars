@@ -1,0 +1,5 @@
+ami_id         = "ami-0150ccaf51ab55a51"
+instance_type  = "t2.micro"
+instance_name  = "Terraform-Web-Server"
+aws_region = "us-east-1"  
+key_name = "stanleynewkey"
